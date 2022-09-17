@@ -1,5 +1,5 @@
 # SQL
-Hi this is where I keep my SQL exercises. 
+Hi! This is where I keep my SQL exercises. 
 
 1. SQL_practice_1
    
